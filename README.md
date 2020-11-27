@@ -20,7 +20,7 @@ ps : <a href="https://unsplash.com/s/photos/barber" target="_blank">vous aurez p
 
 Commencez par télécharger les images ainsi que **ressources.zip**.
 
-Dézippez ressources.zip. Vous y trouverez 2 dossiers :
+Dézippez **ressources.zip**. Vous y trouverez 2 dossiers :
 
 - un dossier fonts qui ne vous servira que pour le nom des polices, qui sont déjà intégrées dans Figma.
 - un dossier images contenant toutes les images nécessaires sauf barbertools.png que vous pouvez télécharger séparément.
